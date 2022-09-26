@@ -12,5 +12,6 @@ public class Main {
         System.out.println("fejl 2");
         System.out.println("fejl 3");
         System.out.println("fejl 4");
+        System.out.println("fejl 5");
     }
 }
