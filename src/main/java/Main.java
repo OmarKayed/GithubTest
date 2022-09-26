@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Din mor og far er i samme familie");
         System.out.println("Tak for i dag");
 
+        System.out.println("Din mor er en mand");
+        System.out.println("Jeg scorer damer på github");
     }
 }
