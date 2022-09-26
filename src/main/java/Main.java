@@ -8,6 +8,11 @@ public class Main {
 
         System.out.println("Din mor er en mand");
         System.out.println("Jeg scorer damer på github");
+        System.out.println("fejl");
+        System.out.println("fejl 2");
+        System.out.println("fejl 3");
+        System.out.println("fejl 4");
+        System.out.println("fejl 5");
         System.out.println("Din mor");
         System.out.println("Din mor2");
     }
