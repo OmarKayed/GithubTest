@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Din mor er en mand");
         System.out.println("Jeg scorer damer på github");
         System.out.println("Din mor");
+        System.out.println("Din mor2");
     }
 }
