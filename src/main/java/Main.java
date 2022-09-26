@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Jeg scorer damer på github");
         System.out.println("fejl");
         System.out.println("fejl 2");
+        System.out.println("fejl 3");
     }
 }
